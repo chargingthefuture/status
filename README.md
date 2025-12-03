@@ -1,6 +1,6 @@
 # [📈 Live Status](https://chargingthefuture.github.io/status): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [Charging The Future](chargingthefuture.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Charging The Future](app.chargingthefuture.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/chargingthefuture/status/workflows/Uptime%20CI/badge.svg)](https://github.com/chargingthefuture/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/chargingthefuture/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/chargingthefuture/status/actions?query=workflow%3A%22Response+Time+CI%22)
